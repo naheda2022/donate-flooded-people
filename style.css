@@ -132,6 +132,7 @@ input{
     width: 150px;
     background-color: rgb(232, 117, 117);
     color: white;
+    text-align: center;
 }
 footer{
     height: 100px;
