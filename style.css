@@ -105,6 +105,34 @@ hr{
 .left-margin{
     margin-left: 150px;
 }
+.update{
+    text-align: center;
+}
+.update h1{
+   font-size: 50px;
+}
+.form-area{
+    width: 60%;
+    height: 150px;
+    margin: 30px auto;
+    background-color: rgb(243, 227, 173);
+}
+form{
+    padding: 50px 200px 50px;
+}
+input{
+    height: 30px;
+}
+#first-input{
+    width: 200px;
+    background-color: rgb(243, 238, 238);
+    color: gray;
+}
+#second-input{
+    width: 150px;
+    background-color: rgb(232, 117, 117);
+    color: white;
+}
 footer{
     height: 100px;
     width: 100%;
@@ -119,5 +147,6 @@ footer h1{
 footer p{
     color: white;
 }
+
 
 
