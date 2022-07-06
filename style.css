@@ -63,3 +63,27 @@ hr{
     margin-bottom: 30px;
     width: 700px;
 }
+.plan-area{
+    text-align: center;
+    margin-top: 80px;
+}
+.plan-area h1{
+    font-size: 30px;
+}
+.donate-plan{
+    height: 300px;
+    width: 300px;
+    background-color: rgba(198, 233, 236, 0.536);
+    padding: 30px 15px;
+    display: inline-block;
+    margin: 30px;
+}
+.margin-control{
+    margin: 0 80px;
+}
+#special-color-1{
+    background-color: rgba(205, 117, 200, 0.899);
+}
+#special-color-2{
+    background-color: rgba(210, 199, 45, 0.878);
+}
