@@ -105,3 +105,19 @@ hr{
 .left-margin{
     margin-left: 150px;
 }
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    padding: 30px 0;
+}
+footer h1{
+    color: tomato;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+footer p{
+    color: white;
+}
+
+
