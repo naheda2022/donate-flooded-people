@@ -102,12 +102,16 @@ hr{
 .margintop{
     margin-top: 100px;
 }
-.left-margin{
-    margin-left: 150px;
-}
 .donate-part{
     font-size: 25px;
     margin-top: 20px;
+}
+.donation-collection{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.donation-collection ol li{
+   list-style-type: none;
 }
 .color{
     color: tomato;
