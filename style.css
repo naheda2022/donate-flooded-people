@@ -99,15 +99,13 @@ hr{
 .half-width h1{
     line-height: 20px;
 }
-.margintop{
-    margin-top: 100px;
-}
 .donate-part{
     font-size: 25px;
     margin-top: 20px;
 }
 .donation-collection{
     text-align: center;
+    margin-top: 100px;
     margin-bottom: 50px;
 }
 .donation-collection ol li{
